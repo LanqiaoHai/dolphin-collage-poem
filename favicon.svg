@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>:root{--color-paper:oklch(91% .028 190);--color-ink:oklch(36% .07 224);--color-accent:oklch(54% .16 28)}</style>
+  <rect width="64" height="64" rx="14" fill="var(--color-paper)"/>
+  <path d="M8 42c8-7 17-7 25 0s15 7 23 0" fill="none" stroke="var(--color-ink)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M18 34c8-13 22-14 31-3-7-3-13-2-18 2-4 3-8 4-13 1Z" fill="var(--color-ink)"/>
+  <path d="m24 31-7-6 10 2" fill="var(--color-ink)"/>
+  <circle cx="43" cy="29" r="1.5" fill="var(--color-accent)"/>
+</svg>
